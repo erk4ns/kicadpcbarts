@@ -1,4 +1,4 @@
 # kicadpcbarts
-These are the pcb files from my project. The backlight file is for the backplate with the leds. I want to solder the powercords from an USB-cable onto the 
+These are the pcb files from my project for the PCBarts course. The backlight project is a pcb with leds it is planned to be used as a backlight for the frontdesign pcb. I want to solder the powercords from an USB-cable onto the 
 larger copperareas.
-The other .kicad_pcb is the frontplate design which i have to work on more. 
+
